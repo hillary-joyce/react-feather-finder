@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "feather-1",
+    "image": "images/feather1.png",
+    "clicked": 0
+  },
+  {
+    "id": 2,
+    "name": "flower-1",
+    "image": "images/flower1.png",
+    "clicked": 0
+  },
+  {
+    "id": 3,
+    "name": "feather-2",
+    "image": "images/feather2.png",
+    "clicked": 0
+  },
+  {
+    "id": 4,
+    "name": "feather-3",
+    "image": "images/feather3.png",
+    "clicked": 0
+  },
+  {
+    "id": 5,
+    "name": "flower-2",
+    "image": "images/flower2.png",
+    "clicked": 0
+  },
+  {
+    "id": 6,
+    "name": "feather-4",
+    "image": "images/feather4.png",
+    "clicked": 0
+  },
+  {
+    "id": 7,
+    "name": "flower-3",
+    "image": "images/flower3.png",
+    "clicked": 0
+  },
+  {
+    "id": 8,
+    "name": "feather-5",
+    "image": "images/feather5.png",
+    "clicked": 0
+  },
+  {
+    "id": 9,
+    "name": "flower-4",
+    "image": "images/flower4.png",
+    "clicked": 0
+  },
+  {
+    "id": 10,
+    "name": "feather-6",
+    "image": "images/feather6.png",
+    "clicked": 0
+  },
+  {
+    "id": 11,
+    "name": "feather-7",
+    "image": "images/feather7.png",
+    "clicked": 0
+  },
+  {
+    "id": 12,
+    "name": "flower-5",
+    "image": "images/flower5.png",
+    "clicked": 0
+  },
+  {
+    "id": 13,
+    "name": "flower-6",
+    "image": "images/flower6.png",
+    "clicked": 0
+  },
+  {
+    "id": 14,
+    "name": "feather-8",
+    "image": "images/feather8.png",
+    "clicked": 0
+  },
+  {
+    "id": 15,
+    "name": "flower-7",
+    "image": "images/flower7.png",
+    "clicked": 0
+  },
+  {
+    "id": 16,
+    "name": "flower-8",
+    "image": "images/flower8.png",
+    "clicked": 0
+  }
+]
