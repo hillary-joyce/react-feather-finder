@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import ImageCard from "./components/ImageCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
+import Score from "./components/Score"
 import images from "./images.json";
 import "./App.css";
 
@@ -69,7 +70,9 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Friends List</Title>
+        <Title>React Memory Game</Title>
+        <h3>Click on images to earn points, but aviod clicking on the same image more than once</h3>
+        <Score score={this.state.score} highScore={this.state.highScore} />
         {images.map(image => (
           <ImageCard
             key={image.id}
