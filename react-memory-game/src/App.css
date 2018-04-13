@@ -1,5 +1,13 @@
 .title {
   width: 100%;
   text-align: center;
-  margin-bottom: 50px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 8em;
+  margin: 20px auto;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
 }

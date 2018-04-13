@@ -69,10 +69,11 @@ class App extends Component {
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
     return (
-      <Wrapper>
-        <Title>React Memory Game</Title>
-        <h3>Click on images to earn points, but aviod clicking on the same image more than once</h3>
+    <div className="container">
+        <Title>React Feather Finder</Title>
+        <h3>Click on feathers to earn points, but avoid clicking on the same image more than once</h3>
         <Score score={this.state.score} highScore={this.state.highScore} />
+        <Wrapper>
         {images.map(image => (
           <ImageCard
             key={image.id}
@@ -84,6 +85,7 @@ class App extends Component {
           />
         ))}
       </Wrapper>
+    </div>
     );
   }
 }
