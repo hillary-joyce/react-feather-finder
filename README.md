@@ -4,9 +4,9 @@ Click on the feathers to earn points, but don't click on a feather more than onc
 
 ## Getting Started
 
-head over to the [Heroku Page](https://enigmatic-retreat-98619.herokuapp.com/)to get started.
+head over to the [Heroku Page](https://enigmatic-retreat-98619.herokuapp.com/) to get started.
 
-The page consists of 12 feathers, all slightly different.
+The game consists of 12 feather images, all slightly different.
 
 The goal is to click on each of the feathers just once to earn a high score.
 
